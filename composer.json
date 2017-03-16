@@ -1,5 +1,5 @@
 {
-    "name": "maknz/slack-laravel",
+    "name": "cadicvnn/slack-laravel",
     "description": "Laravel 4 and 5 integration for the maknz/slack package, including facades and service providers.",
     "keywords": ["slack", "laravel"],
     "license": "BSD-2-Clause",
@@ -7,6 +7,9 @@
         {
             "name": "maknz",
             "email": "github@mak.geek.nz"
+        },
+        {
+            "name": "cadicvnn"
         }
     ],
     "require": {
